@@ -1,0 +1,42 @@
+title: Senior Python Developer
+company: GATE STAFFING
+url: 
+location: New York City
+contract: permanent
+contact:
+    name: Lisa Vella-Puff
+    email: lisa@gatestaffing.com
+    
+created: !!timestamp '2016-06-20' 
+tags:
+  - New York
+  - python
+  - sql
+  - django
+  - tornado
+  - senior
+---
+
+# Overview
+
+Solid high-level (you gotta love python!) experience with Python and an eye for clean, concise code.  
+
+They love tornado but if you have Django, its ok too!!! :) 
+
+Exposure to libraries such as PIL, Pillow, scikit, open|simplecv would be amazing.
+
+You’ve architected, designed and built durable, distributed systems 
+
+Deep experience with relational databases such as PostgreSQL & MySQL and 
+
+NoSQL databases such as MongoDB or RethinkDB.
+
+
+Please send a CV to the address above.
+
+# Role requirements
+
+* Python
+* Django
+* PostgreSQL
+* etc
